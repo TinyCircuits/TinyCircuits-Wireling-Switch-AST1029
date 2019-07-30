@@ -21,6 +21,9 @@
 
 void setup() {
   SerialMonitorInterface.begin(9600); // start serial communications at 9600 Baud
+
+  pinMode(switchPin, INPUT);
+  
   delay(500);
 }
 
