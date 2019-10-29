@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Switch
+# TinyCircuits Wireling Switch
 # AST1029 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1029 Rev 1 PCB. This is a whisker board which features an on/off type slide switch.
+The design files are located under design_files/ for the TinyCircuits AST1029 Rev 1 PCB. This is a Wirelingboard which features an on/off type slide switch.
 NOTE: this board is used to output High/Low logic signals and not to make or break power.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
