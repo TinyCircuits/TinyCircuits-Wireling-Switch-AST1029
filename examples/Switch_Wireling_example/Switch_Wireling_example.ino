@@ -1,5 +1,5 @@
 /*
-  TinyCircuits Switch Whisker Example Sketch
+  TinyCircuits Switch Wireling Example Sketch
 
   This sketch will indicate if the switch is on or off.
 
